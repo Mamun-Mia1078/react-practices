@@ -1,0 +1,2 @@
+its a jsx we can write html code in jsx and also call variable in html elements 
+if the file contain src folder then we can first import the code in js 
