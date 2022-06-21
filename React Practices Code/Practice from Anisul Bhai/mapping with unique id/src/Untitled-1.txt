@@ -1,0 +1,1 @@
+its a jsx we can write html code in jsx and also call variable in html elements 
