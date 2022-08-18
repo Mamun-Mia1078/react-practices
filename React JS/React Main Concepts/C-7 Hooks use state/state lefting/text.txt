@@ -1,3 +1,0 @@
-why need state = {
-    change er depend kore kaz kora 
-}
